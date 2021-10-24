@@ -6,6 +6,6 @@
 
 ## Hi there 👋
 
-### Born to be programmer
+### Interested in Android
 * **Email:** hyunjin_98_dev@naver.com
 * **Instagram: @the.vlakk**
