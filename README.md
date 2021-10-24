@@ -6,6 +6,6 @@
 
 ## Hi there 👋
 
-### 안드로이드 개발자를 꿈꾸는 양현진입니다!
+### Born to be programmer
 * **Email:** hyunjin_98_dev@naver.com
 * **Instagram: @the.vlakk**
