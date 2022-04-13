@@ -8,4 +8,5 @@
 
 ### Interested in Android
 * **Email:** hyunjin_98_dev@naver.com
+* **Blog: https://velog.io/@thevlakk**
 * **Instagram: @the.vlakk**
