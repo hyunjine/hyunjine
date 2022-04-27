@@ -10,3 +10,7 @@
 * **Email:** hyunjin_98_dev@naver.com
 * **Blog: https://velog.io/@thevlakk**
 * **Instagram: @the.vlakk**
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+[![Hyunjine's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunjine)](https://github.com/anuraghazra/github-readme-stats)
