@@ -7,7 +7,6 @@
 ### Android App Developer
 * **Email:** thevlakk1@gmail.com
 * **Blog:** https://medium.com/@hyunjine
-* **Instagram:** <a href="https://www.instagram.com/the.vlakk"><img src="https://img.shields.io/badge/-the.vlakk-red.svg"/>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
